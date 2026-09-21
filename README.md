@@ -1,8 +1,8 @@
-Student Name: N.MITHRA SRIKHAR
+Student Name: M.JASWANTH
 
-PRN Number: 250200220
+PRN Number: 250200440
 
-Class / Section: .SEC-5
+Class / Section: .SEC-6
 
 Subject: Web Technology
 
